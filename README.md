@@ -1,7 +1,14 @@
 # ☕ Coffee Shop Sales Analytics Dashboard
-
---- 
-
+---
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Jupyter Lab](https://img.shields.io/badge/Jupyter-Lab-orange?logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-yellow)
+![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Plots-lightblue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![Power BI Desktop](https://img.shields.io/badge/Power%20BI-Desktop-gold)
+---
 ## 📊 Project Overview
 This project focuses on analyzing coffee shop sales data using Python (Jupyter Lab) and Power BI to uncover meaningful business insights. The analysis includes key performance indicators (KPIs), sales trends, product performance, and customer ordering patterns.<br>
 
